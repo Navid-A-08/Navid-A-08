@@ -1,22 +1,22 @@
-# Hi, I'm Navid 👋
+# Hi, I'm Navid
 
 I build practical AI systems and tools — from context-aware chatbots and multi-agent research assistants to ML pipelines and self-hosted utilities.
 
 ---
 
-### 🔭 Current focus
+###  Current focus
 - Context engineering & agentic workflows
 - ML forecasting and real-time detection systems
 - Clean, usable tools that solve real problems
 
 ---
 
-### 🛠️ Stack
+###  Stack
 `Python` · `FastAPI` · `Flask` · `CrewAI` · `ChromaDB` · `scikit-learn` · `XGBoost` · `LightGBM` · `TensorFlow` · `PostgreSQL` · `Redis` · `Docker`
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 | Project | Description |
 |---------|-------------|
