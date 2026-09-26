@@ -1,17 +1,16 @@
 <h1 align="center">Hi, I'm Navid 👋</h1>
 
 <p align="center">
-  <b>High school student · AI & programming enthusiast</b>
+  <b>High school student building real-world AI and software projects</b>
 </p>
 
 ---
 
 ### 🙋 About Me
 
-- 🎓 I'm a **high school student** with big ambitions in **artificial intelligence** and **software development**.
-- 🧠 I learn by building: every project below is my own hands-on way of exploring how AI and software work in practice.
-- 🤖 I'm especially interested in **LLM agents**, **deep learning** and **machine learning**, and I also enjoy the engineering that makes them work: APIs, databases and data pipelines.
-- 🚀 My goal is to keep growing as a developer and build AI tools that are genuinely useful.
+- 🎓 I'm a **high school student** working on **real-world AI and programming projects**.
+- 🛠️ My projects are complete, working systems, not tutorials: APIs, data pipelines, deep learning models and multi-agent LLM apps.
+- 🤖 I work mostly with **LLM agents and RAG**, **deep learning** and **machine learning**, plus the backend engineering around them: APIs, databases and deployment.
 
 ### 🚀 Featured Projects
 
